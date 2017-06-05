@@ -18,14 +18,12 @@ search:
 
 # friends link
 links:
-  - name: ClassicOldSong
-    url: https://ccoooss.com
-  - name: Frantic1048
-    url: https://frantic1048.logdown.com/
-  - name: Hclmaster
-    url: https://hclmaster.github.io/
-  - name: WANG Hsü-Tung
-    url: https://whst.github.io/
+  - name: 脑洞大开
+    url: http://114.215.126.213/post/VinjEx
+  - name: 大神带你飞
+    url: http://www.glumes.com/
+  - name: 毛都没有
+    url: https://github.com/axisray
 
 # navigation menu
 menu:
@@ -35,9 +33,9 @@ menu:
   - name: Archives
     slug: archives
     url: /archives
-  - name: Gallery
-    slug: gallery
-    url: https://photos.google.com/album/AF1QipNoqKYgspQo5O1YhlFXGCQ7p575KBH3Yxf8WHL4?hl=zh-CN
+  - name: GitHub
+    slug: github
+    url: https://github.com/axisray
   - name: About
     slug: about
     url: /about
@@ -56,8 +54,8 @@ less:
 # use url, not username
 social:
 - slug: github
-  url: https://github.com/stkevintan
+  url: https://github.com/axisray
 - slug: twitter
-  url: https://twitter.com/kevinsfork
+  url: https://twitter.com/axisray
 - slug: rss
-	url: /atom.xml
+  url: /atom.xml
