@@ -16,6 +16,9 @@ search:
   # baidu
   baidu_api_id:
 
+stats:
+  baidu_stats_id:
+
 # friends link
 links:
   - name: 脑洞大开
